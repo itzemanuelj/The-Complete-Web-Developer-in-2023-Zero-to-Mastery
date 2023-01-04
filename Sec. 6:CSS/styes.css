@@ -1,0 +1,23 @@
+h2 {
+  background-color: black;
+  color: red;
+}
+
+li {
+  color: blue;
+  list-style: none;
+  display: inline;
+}
+
+body {
+  background-image: url(images/photo-1539651220415-5a02839192a0\ copy.jpeg);
+  background-size: cover;
+}
+h2 {
+  cursor: pointer;
+}
+.p_body {
+  color: blanchedalmond;
+  text-align: center;
+  margin: 20px;
+}
